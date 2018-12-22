@@ -1,5 +1,5 @@
-# base64
-base64 for ascii
+# Base64
+Base64 for ascii
 # Install
 > npm i -S w-base64
 # Test
